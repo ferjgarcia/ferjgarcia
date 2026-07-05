@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=0052FF&width=600&height=60&lines=I+study+computer+science+at+UNC-FaMAF" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=0052FF&width=700&height=60&lines=I+study+computer+science+at+UNC-FaMAF" />
   </a>
 </p>
 
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>Sobre mí 🚀</h3>
-      <p>¡Hola! Soy Fernando. Soy estudiante de Cs. de la Computación en FaMAF. Me gustaría poder aprender más sobre hacking, redes, sistemas operativos y todo lo que tenga que ver con programación de bajo nivel.</p>      
+      <h3>🚀 About Me</h3>
+      <p>Hi! I'm Fernando, a Computer Science student at FaMAF. I am deeply interested in cybersecurity, networking, operating systems, and everything related to low-level programming.</p>      
       <ul>
-        <li>🔭 Actualmente trabajando en mis proyectos de la facultad.</li>
-        <li>🌱 Aprendiendo constantemente, en especial sobre HACKING.</li>
+        <li>🔭 Currently working on my university projects.</li>
+        <li>🌱 Constantly learning, with a special focus on HACKING.</li>
       </ul>
     </td>
   </tr>
@@ -42,20 +42,25 @@ Here are some ideas to get you started:
 
 ---
 
-### 📬 Puedes Encontrarme En:
-
-
-<a href="mailto:fernandojaviergarcia04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-<a href="https://instagram.com/ferjgarcia_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-
+<p align="left">
+  <b style="font-size: 1.2em;">📬 Connect with me:</b>
+  
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="blank"><img align="left"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn" height="30" width="40" /></a>
+      
+  <a href="https://instagram.com/ferjgarcia_" target="blank"><img align="left"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram" height="30" width="40" /></a>
+      
+  <a href="https://discord.com/users/ferjgarcia_" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="Discord" height="30" width="40" /></a>
+</p>
 
 ---
 
-### Mis Estadísticas de GitHub 📊
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ferjgarcia">
@@ -63,4 +68,3 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferjgarcia&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
