@@ -19,13 +19,13 @@ Here are some ideas to get you started:
   <h1 align="center">Hi, I'm FerJGarcia!! 👋</h1>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=0052FF&width=700&height=60&lines=I+study+computer+science+at+UNC-FaMAF" />
   </a>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 <table border="0">
   <tr>
@@ -42,28 +42,24 @@ Here are some ideas to get you started:
 
 ---
 
-//<h3 align="left">📬 Connect with me:</h3>
-//<p align="left">
-//  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="blank"><img align="left"
- //     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
- //     alt="LinkedIn" height="30" width="40"/></a>
- //     
- // <a href="https://instagram.com/ferjgarcia_" target="blank"><img align="left"
-//      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-//      alt="Instagram" height="30" width="40"/></a>
-      
- // <a href="https://discord.com/users/ferjgarcia_" target="blank"><img align="center"
-//      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-//      alt="Discord" height="30" width="40"/></a>
-// </p>
+<h3 align="left">📬 Connect with me:</h3>
 
-// ---
+<p align="center">
+  <!-- <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a> -->
+     
+ <a href="https://instagram.com/ferjgarcia_" target="blank"><img align="left"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+      
+ <a href="https://discord.com/users/ferjgarcia_" target="blank"><img align="cneter"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ferjgarcia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferjgarcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferjgarcia&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ferjgarcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true""/>
   </a>
 </p>
